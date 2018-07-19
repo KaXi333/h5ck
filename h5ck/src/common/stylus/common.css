@@ -1,0 +1,82 @@
+
+.padd_0{
+	padding:0;
+}
+.bv-example-row{
+  margin: 0 auto;
+  padding: 0;
+}
+.row{
+	margin:0;
+}
+a:hover{
+	cursor: pointer;
+}
+img:hover{
+	cursor: pointer;
+}
+li{
+	list-style: none;
+}
+/*店铺样式*/
+.recommend p{
+    width: 4px;
+    height:20px;
+    background-color: #d33a31;
+    line-height: 100%;
+    margin:auto 0;
+    float: left;
+    margin-right: 10px;
+  }
+  .recommend{
+    margin-top:30px;
+    margin-bottom: 15px;
+  }
+  .recommend span{
+    float: left;
+    font-size: 16px;
+    color:#1b1b1b;
+    line-height: 20px;
+  }
+  .storeName{
+    margin-bottom: 15px;
+    padding-right: 0;
+  }
+  .storeName-bc{
+	background-color: #f9f9f9;
+  padding: 15px;
+  }
+  .goodsName{
+    font-size: 18px;
+    color: #1b1b1b;
+    padding: 12px 0;
+    margin:0;
+    background-color: #f9f9f9;
+  }
+  /*.storeName-bc img{
+  	width: 100%;
+  }*/
+  /*input输入框样式*/
+    .input-item{
+	    background-color: #f0f0f0 !important;
+    }
+    .exchangeBtnCs{
+      font-size: 16px;
+      color: #fff;
+      background-color: #9b2324;
+      height:30px;
+      line-height: 30px;
+      border-radius: 4px;
+      text-align: center;
+      margin-top: 16px;
+      cursor: pointer;
+    }
+    .pauseTit{
+      padding:24px 0 15px 50px;
+      border-bottom: 1px solid #f0f0f0;
+      font-size: 18px;
+    }
+    .goHomeCss a{
+      color: #999;
+    }
+	
